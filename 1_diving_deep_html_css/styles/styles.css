@@ -1,5 +1,5 @@
 #changes {
-  color: rgb(75, 59, 59);
+  color: chocolate;
   font-weight: bold;
   font-size: 21px;
 }
@@ -8,23 +8,8 @@ img {
   width: 200px;
   height: 200px;
   border-radius: 100px;
-  border: 5px solid rgb(44, 44, 44);
-  margin-top: -130px;
 }
 
-main {
-  width: 800px;
-  margin: 120px auto 72px auto;
-  background-color: rgb(170, 96, 83);
-  padding: 15px;
-  border: 5px solid rgb(44, 44, 44);
-  border-radius: 8px;
-  box-shadow: 2px 2px 2px rgb(44, 44, 44);
-}
-h1 {
-  font-size: 30px;
-  color: rgb(31, 25, 25);
-}
-span {
-  color: rgb(66, 2, 2);
+body {
+  margin: 50px;
 }
